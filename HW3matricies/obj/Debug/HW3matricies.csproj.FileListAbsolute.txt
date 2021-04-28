@@ -1,0 +1,7 @@
+C:\Users\111\source\repos\HW3matricies\bin\Debug\HW3matricies.exe.config
+C:\Users\111\source\repos\HW3matricies\bin\Debug\HW3matricies.exe
+C:\Users\111\source\repos\HW3matricies\bin\Debug\HW3matricies.pdb
+C:\Users\111\source\repos\HW3matricies\obj\Debug\HW3matricies.csprojAssemblyReference.cache
+C:\Users\111\source\repos\HW3matricies\obj\Debug\HW3matricies.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\HW3matricies\obj\Debug\HW3matricies.exe
+C:\Users\111\source\repos\HW3matricies\obj\Debug\HW3matricies.pdb
